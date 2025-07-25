@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.main{
+	justify-content:center;
+	height: 300;
+	width: 300px;
+	background-color: blue;
+	border: 15px solid  blue;
+	padding: 50px;
+	margin:20px
+	
+}
+.outerBox1{
+	border:1px solid black;
+	width: 400px;
+	height: 160px
+}
+.outerBox2{
+	border:1px solid black;
+	width: 340px;
+	height: 160px
+}
